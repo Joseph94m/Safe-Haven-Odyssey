@@ -1,6 +1,6 @@
 # Safe Haven: The Mathematics of Tail Risk Hedging
 
-**Companion code for the Medium article: [PLACEHOLDER - Link will be added upon publication]**
+**Companion code for the Medium article: https://medium.com/@moukarzeljoseph/from-scratch-a-python-safe-haven-odyssey-179e929e69d0**
 
 ---
 
